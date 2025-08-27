@@ -36,9 +36,9 @@
         "tab": "Contact",
         "groups": [
           {
-            "group": "Research",
+            "group": "Get Connected",
             "pages": [
-              "research"
+              "contact"
             ]
           }
         ]
