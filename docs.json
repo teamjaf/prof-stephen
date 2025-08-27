@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Prof. Secules",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -47,18 +47,14 @@
         "tab": "Gallery",
         "groups": [
           {
-            "group": "",
+            "group": "Moments",
             "pages": [
-              "research"
+              "gallery"
             ]
           }
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
